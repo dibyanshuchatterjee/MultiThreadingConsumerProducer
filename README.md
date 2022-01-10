@@ -1,0 +1,2 @@
+# MultiThreadingConsumerProducer
+• one producer produces one match, but will overtime produce an unlimeted amount of matches.  • One producer produces one match box, but will overtime produce an unlimeted amount of match boxes.  • A consumer needs 50 matches and one match box to create the final product.  • The match storage allows to store up to 90 matches. The match box storage allows to store up to 9 match boxes
